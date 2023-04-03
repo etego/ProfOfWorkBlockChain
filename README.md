@@ -42,7 +42,7 @@ Install the required dependencies:
 ```sh
 pip install -r requirements.txt
 ```
-- Running the Nodes
+- Running the Nodes<br/>
 Start the first node by running the run.py script with the node command:
 ```sh
 python run.py node
@@ -51,7 +51,7 @@ Start additional nodes by specifying the port as a second argument:
 ```sh
 python run.py node 5001
 ```
-- Interacting with Nodes
+- Interacting with Nodes<br/>
 Use the run.py script with the client command to interact with the nodes:
 ```sh
 python run.py client
