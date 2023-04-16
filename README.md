@@ -19,7 +19,7 @@ This project is a simple implementation of a blockchain with a basic P2P network
 # How to Run and Use
 Clone the repository or download the source code:
 ```sh
-git clone https://github.com/yourusername/blockchain-example.git
+git clone https://github.com/etego/ProfOfWorkBlockChain.git
 ```
 Change to the project folder:
 ```sh
